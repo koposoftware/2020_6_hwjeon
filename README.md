@@ -52,7 +52,7 @@ https://koposoftware.github.io/2020_6_hwjeon/
 
 본인 소개를 추가하세요
 
-|이름 |전혜원|![gdKO](/gdko.jpg)|
+|이름 |전혜원(Hyewon Jeon)|![gdKO](/gdko.jpg)|
 |연락처 | 2060340007(@)office.kopo.ac.kr|
 |skill set| Frontend - HTML, CSS, Javascript, jQuery|
 | | Backend - Java, Spring, Oracle|
