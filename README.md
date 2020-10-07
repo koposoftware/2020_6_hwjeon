@@ -19,7 +19,7 @@ https://koposoftware.github.io/2020_6_hwjeon/
 
 ## 2-2. 시스템 아키텍쳐 및 ERD
 <img src="gitimg02.png" /><br>
-<img src="gitimg03.png"/><br>
+<img src="gitimg05.png"/><br>
 
  
 
@@ -100,11 +100,5 @@ Etc : Git(Git Bash)
 
 # 4. 본인 소개
 
-본인 소개를 추가하세요
-
-|이름 |전혜원(Hyewon Jeon)||
-|연락처 | 2060340007(@)office.kopo.ac.kr|
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-|특기사항|  TOEIC 905, Thai FLEX 869.4 |
+|이름 |전혜원(Hyewon Jeon)|gdKO| |연락처 | 2060340007(@)office.kopo.ac.kr| |skill set| Frontend - HTML, CSS, Javascript| | | Backend - Java, Spring, Oracle| |자격증| GA(Google Analysis) | |수상| UN Women Golbal Partnership 2nd runner-up | |특기사항| TOEIC 905, FLEX Thai 864.9 |
 
