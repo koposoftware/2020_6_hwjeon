@@ -19,9 +19,6 @@ https://koposoftware.github.io/2020_6_hwjeon/
 
 ## 2-2. 시스템 아키텍쳐 및 ERD
 <img src="gitimg02.png" /><br>
-<img src="githubimg05.png" /><br>
-
- 
 
 # 3. 프로젝트 결과
 
